@@ -13,3 +13,6 @@ int main(void)
     printf("mi=%i\n", mi) ;
     printf("Sum=%i\n", sum);
 }
+
+
+54334
